@@ -9,3 +9,5 @@ vue-study
 ├ GUIDELINE.md        
 └ README.md           
 ```
+
+現在修正中
